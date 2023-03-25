@@ -1,0 +1,129 @@
+
+.Navbar_left{
+    height: 65vh;
+    width: 60vw;
+    background: #FFCD9E;
+}
+
+.Navbar_left h1{
+    position: relative;
+    left: 13%;
+    top: 10%;
+
+    height: 20%;
+    width: 60%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 200%;
+    line-height: 130%;
+    align-items: center;
+
+    color: #282828;
+}
+
+.Navbar_left p{
+    position: relative;
+    left: 13%;
+    top: 10%;
+
+    height: 5%;
+    width: 53%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 120%;
+    line-height: 130%;
+    align-items: center;
+
+    color: #484848;
+}
+
+#Navbar_show{
+    position: relative;
+    left: 13%;
+    top: 22%;
+
+    height: 5%;
+    width: 70%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 120%;
+    line-height: 125%;
+    align-items: center;
+
+    color: #282828;
+}
+
+.Navbar_form{
+    display: flex;
+}
+
+input[type=email]{
+    box-sizing: border-box;
+    position: relative;
+    width: 30%;
+    /* height: 170%; */
+    padding :1.3%;
+    margin-top: 15%;
+
+    left:13%;
+    /* top: 80%; */
+
+    background: #FFFFFF;
+    border: 3.5px solid #000000;
+    border-radius: 6px;
+}
+
+input[placeholder]{
+    font-weight: 600;
+    font-size: 100%;
+    color: #888888;
+}
+
+.Navbar_form button{
+    position: relative;
+    width: 20%;
+    /* line-height: 10%; */
+    
+    /* padding: 5px 35px; */
+
+    left: 15%;
+    margin-top: 15%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 100%;
+    line-height: 11%;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    background: #282828;
+    border-radius: 6px;
+}
+
+#Navbar_spam{
+    position: relative;
+    left: 17%;
+    top: 3%;
+
+    height: 5%;
+    width: 50%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100%;
+    line-height: 131%;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF; 
+}

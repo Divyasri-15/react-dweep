@@ -1,0 +1,49 @@
+.Footer_footerContainer{
+    display: flex;
+}
+
+.Footer_ftleft{
+    height: 35vh;
+    width: 100vw;
+    background: #282828;
+}
+
+.Footer_ftleft p{
+    position: relative;
+    
+    width: 50%;
+    top: 10%;
+    left: 23%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 112%;
+    line-height: 187%;
+
+    color: #FFFFFF;
+}
+
+.Footer_ftright{
+    height: 35vh;
+    width: 100vw;
+    background: #282828;
+}
+
+.Footer_ftright p{
+    position: relative;
+    text-align: right;
+    top: 10%;
+    right: 33%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 112%;
+    line-height: 180%;
+    color: #FFFFFF;
+}
+
+.Footer_ftright img{
+    height: 10%;
+}
