@@ -15,6 +15,7 @@ function App() {
   };
   return (
     <>
+      {/* <Footer list1={list}/> */}
       <div className="top">
         <Navbar />
         <Image />

@@ -1,49 +1,32 @@
-.Footer_footerContainer{
+.Footer{
+    height: 35vh;
+    width: 100vw;
+    background: #282828;
+}
+
+.Footer_list{
     display: flex;
-}
-
-.Footer_ftleft{
-    height: 35vh;
-    width: 100vw;
-    background: #282828;
-}
-
-.Footer_ftleft p{
-    position: relative;
-    
-    width: 50%;
-    top: 10%;
-    left: 23%;
-
-    font-family: 'Inter';
+    color: #FFFFFF;
+    justify-content: space-between;
     font-style: normal;
     font-weight: 400;
     font-size: 112%;
-    line-height: 187%;
-
-    color: #FFFFFF;
+    line-height: 190%;
+    padding-top: 2%;
+    padding-left: 9%;
+    padding-right: 15.5%;
 }
 
-.Footer_ftright{
-    height: 35vh;
-    width: 100vw;
-    background: #282828;
-}
-
-.Footer_ftright p{
+.Footer_list ul{
+    list-style: none;
     position: relative;
+    top: 50%;
+}
+
+.Footer_right{
     text-align: right;
-    top: 10%;
-    right: 33%;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 112%;
-    line-height: 180%;
-    color: #FFFFFF;
 }
 
-.Footer_ftright img{
-    height: 10%;
+.Footer_list ul li{
+    cursor: pointer;
 }
