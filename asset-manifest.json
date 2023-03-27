@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-dweep/static/css/main.12db04d2.css",
+    "main.js": "/react-dweep/static/js/main.8638cd53.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-dweep/static/js/787.28cb0dcd.chunk.js",
+    "static/media/dweep io 1.png": "/react-dweep/static/media/dweep io 1.c873f60d293cf20efe55.png",
+    "index.html": "/react-dweep/index.html",
+    "main.12db04d2.css.map": "/react-dweep/static/css/main.12db04d2.css.map",
+    "main.8638cd53.js.map": "/react-dweep/static/js/main.8638cd53.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-dweep/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12db04d2.css",
+    "static/js/main.8638cd53.js"
+  ]
+}
